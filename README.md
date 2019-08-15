@@ -1,7 +1,7 @@
 # colorcli
 **Colorcli is a collection of harmonized command-line interface (CLI) color themes for Bash, tmux, cmus, and Vim.**
 
-The example below shows the implementation of colorcli (cmus opened in tabbed tmux):
+The example below shows the implementation of colorcli - Cmus opened in a tabbed tmux in the Bash shell:
 
 ![colorcli with cmus in tmux](https://res.cloudinary.com/jonasjacek/image/upload/v1565902443/colorcli-with-cmus-in-tmux.png "colorcli in action")
 
