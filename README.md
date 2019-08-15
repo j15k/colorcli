@@ -5,8 +5,6 @@ Command-line interface (CLI) color themes for bash, tmux, cmus, and vim by Jonas
 
 ## Colors
 
-![colorcli colors](https://res.cloudinary.com/jonasjacek/image/upload/c_scale,h_367,q_auto:good,w_400/v1565903188/colorcli-colors.png "colorcli colors")
-
 <table>
   <tr>
     <th>Xterm Number</th>
@@ -25,6 +23,8 @@ Command-line interface (CLI) color themes for bash, tmux, cmus, and vim by Jonas
   <tr><td>254</td><td>Grey89</td><td>#e4e4e4</td><td>...</td></tr>
   <tr><td>250</td><td>Grey74</td><td>#bcbcbc</td><td>...</td></tr>
 </table>
+
+![colorcli colors](https://res.cloudinary.com/jonasjacek/image/upload/c_scale,h_367,q_auto:good,w_400/v1565903188/colorcli-colors.png "colorcli colors")
 
 ---
 
