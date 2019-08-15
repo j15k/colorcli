@@ -11,8 +11,8 @@ Command-line interface (CLI) color themes for tmux, bash and vim by Jonas Jacek
     <th>HEX</th>
     <th>Usage</th>
   </tr>
-  <tr><td style="background:#000000;"></td><td>0</td><td>Black <span>(SYSTEM)</span></td><td>#000000</td><td>...</td></tr>
-  <tr><td style="background:#ffffff;"></td><td>15</td><td>White <span>(SYSTEM)</span></td><td>...</td></tr>
+  <tr><td><span style="color:#000000;">&squf;</span></td><td>0</td><td>Black <span>(SYSTEM)</span></td><td>#000000</td><td>...</td></tr>
+  <tr><td style="background:#ffffff;"></td><td>15</td><td>White <span>(SYSTEM)</span></td><td>#ffffff</td><td>...</td></tr>
   <tr><td style="background:#005f87;"></td><td>24</td><td>DeepSkyBlue4</td><td>#005f87</td><td>...</td></tr>
   <tr><td style="background:#5f5f5f;"></td><td>59</td><td>Grey37</td><td>#5f5f5f</td><td>...</td></tr>
   <tr><td style="background:#d70000;"></td><td>160</td><td>Red3</td><td>#d70000</td><td>bell</td></tr>
