@@ -1,6 +1,8 @@
 # colorcli
 Command-line interface (CLI) color themes for bash, tmux, cmus, and vim by Jonas Jacek
 
+![colorcli with cmus in tmux](ttps://res.cloudinary.com/jonasjacek/image/upload/v1565902443/colorcli-with-cmus-in-tmux.png "colorcli in action")
+
 ## Colors
 
 <table>
@@ -13,6 +15,7 @@ Command-line interface (CLI) color themes for bash, tmux, cmus, and vim by Jonas
   <tr><td>0</td><td>Black <span>(SYSTEM)</span></td><td>#000000</td><td>...</td></tr>
   <tr><td>15</td><td>White <span>(SYSTEM)</span></td><td>#ffffff</td><td>...</td></tr>
   <tr><td>24</td><td>DeepSkyBlue4</td><td>#005f87</td><td>...</td></tr>
+  <tr><td>31</td><td>DeepSkyBlue3</td><td>#0087af</td><td>alternative</td></tr>
   <tr><td>59</td><td>Grey37</td><td>#5f5f5f</td><td>...</td></tr>
   <tr><td>160</td><td>Red3</td><td>#d70000</td><td>bell</td></tr>
   <tr><td>226</td><td>Yellow1</td><td>#ffff00</td><td>highlight</td></tr>
@@ -26,7 +29,7 @@ Command-line interface (CLI) color themes for bash, tmux, cmus, and vim by Jonas
 ## Implementations
 
 * **Bash**  
-  Add the snippet in `colorcli.bashrc` to your `.bashrc`, which is one of the configuration file of the [Bash](https://www.gnu.org/software/bash/) shell.
+  Add the snippet in `colorcli.bashrc` to your `.bashrc`, which is one of the configuration file of the [Bash](https://www.gnu.org/software/bash/) shell. This will enable 256 color support.
 * **tmux**  
   Add the snippet in `colorcli.tmux.conf` to your `.tmux.conf`, which is the configuration file for the [tmux](https://github.com/tmux/tmux/wiki) terminal multiplexer.
 * **CMUS**  
