@@ -1,0 +1,13 @@
+# GENERAL 
+# files types
+*.*~
+*.bak
+*.gho
+*.log
+*.ori
+*.swp
+*.swo
+*.tmp
+*.vim
+
+# SPECIFIC
