@@ -24,8 +24,6 @@ Command-line interface (CLI) color themes for bash, tmux, cmus, and vim by Jonas
   <tr><td>250</td><td>Grey74</td><td>#bcbcbc</td><td>...</td></tr>
 </table>
 
-![colorcli colors](https://res.cloudinary.com/jonasjacek/image/upload/c_scale,h_367,q_auto:good,w_400/v1565903188/colorcli-colors.png "colorcli colors")
-
 ---
 
 ## How to use the themes
