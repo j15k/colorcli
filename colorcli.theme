@@ -1,0 +1,86 @@
+# TABLE OF CONTENTS
+#==============================================================================
+# - ABOUT
+# - HOW TO
+# - BASICS
+# - PLAYING TRACK
+# - COLLECTION
+# - DIRECTORIES
+
+#==============================================================================
+#
+# ABOUT
+#
+# 'colorcli' colorscheme for C Music Player (cmus)
+# Created by Jonas Jacek - http://jonas.me/
+# Repository: https://github.com/jonasjacek/colorcli
+
+#==============================================================================
+#
+# HOW TO
+#
+# 1. Save file in /usr/share/cmus
+# 2. Activate colorscheme in cmus with ':colorschme colorcli'
+
+#==============================================================================
+#
+# BASICS
+#
+# BASICS: TEXT COLOR
+set color_win_fg=59
+
+# BASICS: BACKGROUND COLOR
+set color_win_bg=default
+
+# BASICS: COMMAND LINE
+set color_cmdline_bg=default
+set color_cmdline_fg=default
+set color_error=160
+set color_info=31
+set color_separator=252
+
+# BASICS: BOTTOM STATUS LINE
+set color_statusline_bg=24
+set color_statusline_fg=15
+
+# BASICS: BOTTOM TITLE LINE
+set color_titleline_bg=252
+set color_titleline_fg=24
+
+# BASICS: TOP TITLE LINE
+set color_win_title_bg=24
+set color_win_title_fg=15
+
+#==============================================================================
+#
+# PLAYING TRACK
+#
+# PLAYNG: UNSELECTED PLAYING
+set color_win_cur=31
+
+# PLAYING: ACTIVE SELECTION
+set color_win_cur_sel_bg=254
+set color_win_cur_sel_fg=31
+
+# PLAYING: INACTIVE SELECTION
+set color_win_inactive_cur_sel_bg=254
+set color_win_inactive_cur_sel_fg=31
+
+#==============================================================================
+#
+# COLLECTION
+#
+# COLLECTION: ACTIVE SELECTION
+set color_win_sel_bg=254
+set color_win_sel_fg=238
+
+# COLLECTION: INACTIVE SELECTION
+set color_win_inactive_sel_bg=default
+set color_win_inactive_sel_fg=31
+
+#==============================================================================
+#
+# DIRECTORIES
+#
+# DIRECTORIES: DIRECTORY LISTING
+set color_win_dir=59
