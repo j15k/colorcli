@@ -11,3 +11,5 @@
 *.vim
 
 # SPECIFIC
+# exclude
+images/
