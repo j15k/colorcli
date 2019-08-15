@@ -26,7 +26,7 @@ Command-line interface (CLI) color themes for bash, tmux, cmus, and vim by Jonas
 
 ---
 
-## Implementations
+## How to use the themes
 
 * **Bash**  
   Add the snippet in `colorcli.bashrc` to your `.bashrc`, which is one of the configuration file of the [Bash](https://www.gnu.org/software/bash/) shell. This will enable 256 color support.
@@ -38,3 +38,9 @@ Command-line interface (CLI) color themes for bash, tmux, cmus, and vim by Jonas
   Snippets for the [Vim](https://www.vim.org/) text editor:
   * **Lightline**  
     Add the `colorcli.vim` colorscheme to [Lightline](https://github.com/itchyny/lightline.vim), a statusline/tabline plugin for Vim.
+
+---
+
+## Contribute
+
+**Found a mistake? Want to help? Send a pull request!**
