@@ -1,5 +1,5 @@
 # colorcli
-Command-line interface (CLI) color themes for tmux, bash and vim by Jonas Jacek
+Command-line interface (CLI) color themes for bash, tmux, cmus, and vim by Jonas Jacek
 
 ## Colors
 
