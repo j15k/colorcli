@@ -2,7 +2,7 @@
 " Filename: autoload/lightline/colorscheme/colorcli.vim
 " Author: Jonas Jacek - https://www.jonas.me/
 " License: MIT License
-" Last Change: 2019/10/16 11:27:38
+" Last Change: 2019/10/16
 " =============================================================================
 
 let s:yellow = [ '#ffff00' , 226 ]        " Yellow1
@@ -19,7 +19,7 @@ let s:white = [ '#ffffff' , 15 ]          " White (SYSTEM)
 
 let s:p = {'normal': {}, 'inactive': {}, 'insert': {}, 'replace': {}, 'visual': {}, 'tabline': {}}
 
-let s:p.normal.left = [ [ s:white, s:darkBlue ], [ s:white, s:darkBlue ] ]
+let s:p.normal.left = [ [ s:white, s:blue ], [ s:white, s:darkBlue ] ]
 let s:p.insert.left = [ [ s:white, s:green ], [ s:white, s:darkBlue ] ]
 let s:p.visual.left = [ [ s:white, s:orange ], [ s:white, s:darkBlue ] ]
 let s:p.replace.left = [ [ s:white, s:red ], [ s:white, s:darkBlue ] ]
