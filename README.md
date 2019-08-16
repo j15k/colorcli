@@ -1,4 +1,4 @@
-![colorcli colors](https://res.cloudinary.com/jonasjacek/image/upload/v1565972232/colorcli-colors_preview.png "colorcli colors preview")
+![colorcli colors](https://res.cloudinary.com/jonasjacek/image/upload/v1565972484/colorcli-colors_preview.png "colorcli colors preview")
 
 # colorcli
 **Colorcli is a collection of harmonized command-line interface (CLI) color themes for tmux, cmus, newsboat, and Vim.**
