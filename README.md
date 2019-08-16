@@ -1,5 +1,5 @@
 # colorcli
-**Colorcli is a collection of harmonized command-line interface (CLI) color themes for Bash, tmux, cmus, and Vim.**
+**Colorcli is a collection of harmonized command-line interface (CLI) color themes for Bash, tmux, cmus, newsboat, and Vim.**
 
 The example below shows the implementation of colorcli - Cmus opened in a tabbed tmux in the Bash shell:
 
@@ -38,6 +38,8 @@ The example below shows the implementation of colorcli - Cmus opened in a tabbed
   Add the snippet in `colorcli.tmux.conf` to your `.tmux.conf`, which is the configuration file for the [tmux](https://github.com/tmux/tmux/wiki) terminal multiplexer.
 * **CMUS**  
   Copy `colorcli.theme` to `/usr/share/cmus/` to use it in the [cmus](https://cmus.github.io/) music player. 
+* **Newsboat**  
+  Copy the snippet in `colorcli.config` to your `config` file for the [newsboat](https://newsboat.org/) feed reader.
 * **Vim**  
   Snippets for the [Vim](https://www.vim.org/) text editor:
   * **Lightline**  
