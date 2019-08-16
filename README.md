@@ -1,5 +1,5 @@
 # colorcli
-**Colorcli is a collection of harmonized command-line interface (CLI) color themes for Bash, tmux, cmus, newsboat, and Vim.**
+**Colorcli is a collection of harmonized command-line interface (CLI) color themes for tmux, cmus, newsboat, and Vim.**
 
 The example below shows the implementation of colorcli - Cmus opened in a tabbed tmux in the Bash shell:
 
@@ -30,20 +30,18 @@ The example below shows the implementation of colorcli - Cmus opened in a tabbed
 
 ---
 
-## How to use the themes
+## Install Themes
 
-* **Bash**  
-  Add the snippet in `colorcli.bashrc` to your `.bashrc`, which is one of the configuration file of the [Bash](https://www.gnu.org/software/bash/) shell. This will enable 256 color support.
+Make sure you have enabled 256 color support.
+
 * **tmux**  
-  Add the snippet in `colorcli.tmux.conf` to your `.tmux.conf`, which is the configuration file for the [tmux](https://github.com/tmux/tmux/wiki) terminal multiplexer.
+  To install the theme for the terminal multiplexer [tmux](https://github.com/tmux/tmux/wiki), add the snippet in `colorcli.tmux.conf` to your `~/.tmux.conf`, which is the tmux configuration file.
 * **CMUS**  
-  Copy `colorcli.theme` to `/usr/share/cmus/` to use it in the [cmus](https://cmus.github.io/) music player. 
+  To install the theme for the music player [cmus](https://cmus.github.io/), copy `colorcli.theme` to `/usr/share/cmus/colorcli.theme`. You can enable the theme in cmus with `:colorscheme colorcli`.
 * **Newsboat**  
-  Copy the snippet in `colorcli.config` to your `config` file for the [newsboat](https://newsboat.org/) feed reader.
-* **Vim**  
-  Snippets for the [Vim](https://www.vim.org/) text editor:
-  * **Lightline**  
-    Add the `colorcli.vim` colorscheme to [Lightline](https://github.com/itchyny/lightline.vim), a statusline/tabline plugin for Vim.
+  To install the theme for the feed reader [newsboat](https://newsboat.org/), add the code in `colorcli.config` to `~/.newsboat/config`.
+* **Lightline**  
+  To install the theme for the [Vim](https://www.vim.org/) statusline plugin [Lightline](https://github.com/itchyny/lightline.vim), copy the `colorcli.vim` colorscheme to `~/.vim/bundle/lightline.vim/autoload/lightline/colorscheme/colorcli.vim`. You can enable the theme with `let g:lightline = { 'colorscheme': 'colorcli' }` in `~/.vimrc`.
 
 ---
 
