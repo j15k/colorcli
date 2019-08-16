@@ -8,7 +8,6 @@
 *.swp
 *.swo
 *.tmp
-*.vim
 
 # SPECIFIC
 # exclude
