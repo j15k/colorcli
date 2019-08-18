@@ -3,7 +3,9 @@
 # colorcli
 **_Colorcli_ is a collection of harmonized, light command-line interface (CLI) color themes for tmux, cmus, newsboat, and Vim.**
 
-![Colorful command line with colorcli](https://media.giphy.com/media/XxRjuvoDBtyxeXKZ0Z/giphy.gif "colorcli themes and color schemes in action")
+![colorcli cmus theme](https://res.cloudinary.com/jonasjacek/image/upload/v1565902443/colorcli-with-cmus-in-tmux.png "colorcli with cmus")
+
+<small><a href="#screenshots">More screenshots</a></small>
 
 ## Colors
 
@@ -31,6 +33,8 @@
 ---
 
 ## Screenshots
+
+![Colorful command line with colorcli](https://media.giphy.com/media/XxRjuvoDBtyxeXKZ0Z/giphy.gif "colorcli themes and color schemes in action")
 
 * **cmus theme**  
   [Screenshot of cmus theme](https://res.cloudinary.com/jonasjacek/image/upload/v1566154974/screenshot_cmus.png)
