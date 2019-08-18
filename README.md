@@ -5,7 +5,7 @@
 
 Screenshot: cmus with _colorcli_ theme, opened in a tabbed tmux, also with _colorcli_ in the Bash shell:
 
-![colorcli with cmus in tmux](https://res.cloudinary.com/jonasjacek/image/upload/v1565902443/colorcli-with-cmus-in-tmux.png "colorcli in action")
+![Colorful command line with colorcli](https://media.giphy.com/media/XxRjuvoDBtyxeXKZ0Z/giphy.gif "colorcli themes and color schemes in action")
 
 ## Colors
 
@@ -31,6 +31,15 @@ Screenshot: cmus with _colorcli_ theme, opened in a tabbed tmux, also with _colo
 </table>
 
 ---
+
+## Screenshots
+
+* **cmus theme**  
+  [Screenshot of cmus theme](https://res.cloudinary.com/jonasjacek/image/upload/v1566154974/screenshot_cmus.png)
+* **newsboat theme**  
+  [Screenshot of newsboat theme](https://res.cloudinary.com/jonasjacek/image/upload/v1566154974/screenshot_newsboat.png)
+* **Vim color scheme**  
+  [Screenshot of Vim color scheme](https://res.cloudinary.com/jonasjacek/image/upload/v1566154974/screenshot_vim.png)
 
 ## Install Themes
 
