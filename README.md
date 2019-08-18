@@ -37,11 +37,11 @@
 ![Colorful command line with colorcli](https://media.giphy.com/media/XxRjuvoDBtyxeXKZ0Z/giphy.gif "colorcli themes and color schemes in action")
 
 * **cmus theme**  
-  [Screenshot of cmus theme](https://res.cloudinary.com/jonasjacek/image/upload/v1566154974/screenshot_cmus.png)
+  <a href="https://res.cloudinary.com/jonasjacek/image/upload/v1566154974/screenshot_cmus.png" target="_blank">Screenshot of cmus theme</a>
 * **newsboat theme**  
-  [Screenshot of newsboat theme](https://res.cloudinary.com/jonasjacek/image/upload/v1566154974/screenshot_newsboat.png)
+  <a href="https://res.cloudinary.com/jonasjacek/image/upload/v1566154974/screenshot_newsboat.png" target="_blank">Screenshot of newsboat theme</a>
 * **Vim color scheme**  
-  [Screenshot of Vim color scheme](https://res.cloudinary.com/jonasjacek/image/upload/v1566154974/screenshot_vim.png)
+  <a href="https://res.cloudinary.com/jonasjacek/image/upload/v1566154974/screenshot_vim.png" target="_blank">Screenshot of Vim color scheme</a>
 
 ## Install Themes
 
