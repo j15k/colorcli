@@ -7,6 +7,8 @@
 
 <small><a href="#screenshots">More screenshots</a></small>
 
+---
+
 ## Colors
 
 <table>
@@ -42,6 +44,8 @@
   <a href="https://res.cloudinary.com/jonasjacek/image/upload/v1566154974/screenshot_newsboat.png" target="_blank">Screenshot of newsboat theme</a>
 * **Vim color scheme**  
   <a href="https://res.cloudinary.com/jonasjacek/image/upload/v1566154974/screenshot_vim.png" target="_blank">Screenshot of Vim color scheme</a>
+
+---
 
 ## Install Themes
 
