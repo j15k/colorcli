@@ -39,11 +39,11 @@
 ![Colorful command line with colorcli](https://media.giphy.com/media/XxRjuvoDBtyxeXKZ0Z/giphy.gif "colorcli themes and color schemes in action")
 
 * **cmus theme**  
-  <a href="https://res.cloudinary.com/jonasjacek/image/upload/v1566154974/screenshot_cmus.png" target="_blank">Screenshot of cmus theme</a>
+  <a href="https://res.cloudinary.com/jonasjacek/image/upload/v1566154974/screenshot_cmus.png">Screenshot of cmus theme</a>
 * **newsboat theme**  
-  <a href="https://res.cloudinary.com/jonasjacek/image/upload/v1566154974/screenshot_newsboat.png" target="_blank">Screenshot of newsboat theme</a>
+  <a href="https://res.cloudinary.com/jonasjacek/image/upload/v1566154974/screenshot_newsboat.png">Screenshot of newsboat theme</a>
 * **Vim color scheme**  
-  <a href="https://res.cloudinary.com/jonasjacek/image/upload/v1566154974/screenshot_vim.png" target="_blank">Screenshot of Vim color scheme</a>
+  <a href="https://res.cloudinary.com/jonasjacek/image/upload/v1566154974/screenshot_vim.png">Screenshot of Vim color scheme</a>
 
 ---
 
