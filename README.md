@@ -42,8 +42,8 @@
   <a href="https://res.cloudinary.com/jonasjacek/image/upload/v1566154974/screenshot_cmus.png">Screenshot of cmus theme</a>
 * **newsboat theme**  
   <a href="https://res.cloudinary.com/jonasjacek/image/upload/v1566154974/screenshot_newsboat.png">Screenshot of newsboat theme</a>
-* **Vim color scheme**  
-  <a href="https://res.cloudinary.com/jonasjacek/image/upload/v1566154974/screenshot_vim.png">Screenshot of Vim color scheme</a>
+* **Vim Lightline color scheme**  
+  <a href="https://res.cloudinary.com/jonasjacek/image/upload/v1566154974/screenshot_vim.png">Screenshot of Vim Lightline color scheme</a>
 
 ---
 
@@ -58,7 +58,7 @@ Make sure you have enabled 256 color support.
   You can enable the theme in cmus with `:colorscheme colorcli`.
 * **Newsboat**  
   To install the theme for the feed reader [newsboat](https://newsboat.org/), add the code in `colorcli.config` to `~/.newsboat/config`.  
-* **Lightline**  
+* **Vim Lightline**  
   To install the theme for the [Vim](https://www.vim.org/) statusline plugin [Lightline](https://github.com/itchyny/lightline.vim), copy the `colorcli.vim` color scheme to `~/.vim/bundle/lightline.vim/autoload/lightline/colorscheme/colorcli.vim`.  
   You can enable the theme with `let g:lightline = { 'colorscheme': 'colorcli' }` in `~/.vimrc`.
 
