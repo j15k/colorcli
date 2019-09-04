@@ -1,7 +1,7 @@
 ![colorcli colors](https://res.cloudinary.com/jonasjacek/image/upload/v1565972484/colorcli-colors_preview.png "colorcli colors preview")
 
 # colorcli
-**_Colorcli_ is a collection of harmonized, light command-line interface (CLI) color themes for tmux, cmus, newsboat, and Vim.**
+**_Colorcli_ is a collection of harmonized, light command-line interface (CLI) color themes for tmux, cmus, newsboat, mcabber, and Vim.**
 
 ![colorcli cmus theme](https://res.cloudinary.com/jonasjacek/image/upload/v1565902443/colorcli-with-cmus-in-tmux.png "colorcli with cmus")
 
@@ -58,6 +58,8 @@ Make sure you have enabled 256 color support.
   You can enable the theme in cmus with `:colorscheme colorcli`.
 * **Newsboat**  
   To install the theme for the feed reader [newsboat](https://newsboat.org/), add the code in `colorcli.config` to `~/.newsboat/config`.  
+* **mcabber**  
+  To install the theme for the XMPP (Jabber) sonsole client [mcabber](http://mcabber.com/), add the code in `colorcli.mcabberrc` to `~/.mcabber/mcabberrc`.  
 * **Vim Lightline**  
   To install the theme for the [Vim](https://www.vim.org/) statusline plugin [Lightline](https://github.com/itchyny/lightline.vim), copy the `colorcli.vim` color scheme to `~/.vim/bundle/lightline.vim/autoload/lightline/colorscheme/colorcli.vim`.  
   You can enable the theme with `let g:lightline = { 'colorscheme': 'colorcli' }` in `~/.vimrc`.
