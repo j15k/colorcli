@@ -68,4 +68,4 @@ Make sure you have enabled 256 color support.
 
 ## Contribute
 
-**Found a mistake? Want to help? Send a pull request!**
+**Found a mistake? Want to help? Send a pull request, or [contact me](https://www.jonas.me/contact)!**
