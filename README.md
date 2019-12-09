@@ -66,6 +66,16 @@ Make sure you have enabled 256 color support.
 
 ---
 
+## Mirrors
+
+You can find this repository on:
+* GitLab  
+  [https://gitlab.com/jonasjacek/colorcli](https://gitlab.com/jonasjacek/colorcli)
+* GitHub  
+  [https://github.com/jonasjacek/colorcli](https://github.com/jonasjacek/colorcli)
+
+---
+
 ## Contribute
 
 **Found a mistake? Want to help? Send a pull request, or [contact me](https://www.jonas.me/contact)!**
