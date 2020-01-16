@@ -59,7 +59,7 @@ Make sure you have enabled 256 color support.
 * **Newsboat**  
   To install the theme for the feed reader [newsboat](https://newsboat.org/), add the code in `colorcli.config` to `~/.newsboat/config`.  
 * **mcabber**  
-  To install the theme for the XMPP (Jabber) sonsole client [mcabber](http://mcabber.com/), add the code in `colorcli.mcabberrc` to `~/.mcabber/mcabberrc`.  
+  To install the theme for the XMPP (Jabber) console client [mcabber](http://mcabber.com/), add the code in `colorcli.mcabberrc` to `~/.mcabber/mcabberrc`.  
 * **Vim Lightline**  
   To install the theme for the [Vim](https://www.vim.org/) statusline plugin [Lightline](https://github.com/itchyny/lightline.vim), copy the `colorcli.vim` color scheme to `~/.vim/bundle/lightline.vim/autoload/lightline/colorscheme/colorcli.vim`.  
   You can enable the theme with `let g:lightline = { 'colorscheme': 'colorcli' }` in `~/.vimrc`.
