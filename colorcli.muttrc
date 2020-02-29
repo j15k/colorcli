@@ -16,7 +16,9 @@ color search        brightmagenta   default
 color tree          color24         white
 
 ## sidebar
-color sidebar_new   default         color208
+color sidebar_new       default         color208
+color sidebar_indicator color24         color250
+color sidebar_highlight brightcolor24   color250
 
 #
 ## index ----------------------------------------------------------------
