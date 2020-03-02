@@ -2,29 +2,30 @@
 # ==================
 # http://www.newsbeuter.org/doc/newsbeuter.html#_configuring_colors
 
-# adapted muttrc colors from https://github.com/webgefrickel/dotfiles
+# muttrc.colors structure adapted from https://github.com/webgefrickel/dotfiles
 
 ## basic colors ---------------------------------------------------------
-color normal        black           white
-color status        brightwhite     color24
-color indicator     brightcolor24   color250
-color error         color160        white
-color tilde         color31         white
-color markers       red             white
-color attachment    color59         white
-color search        brightmagenta   default
-color tree          color24         white
+color normal            black           white
+color status            brightwhite     color24
+color indicator         white           color31
+color error             color160        white
+color tilde             color31         white
+color markers           color160        white
+color attachment        color59         white
+color search            white           color31
+color tree              color24         white
 
 ## sidebar
 color sidebar_new       default         color208
-color sidebar_indicator color24         color250
-color sidebar_highlight brightcolor24   color250
+color sidebar_indicator color31         color250
+color sidebar_highlight brightcolor31   color250
 
 #
 ## index ----------------------------------------------------------------
 #
 color index         black           white       "~A"    # all messages
 color index         brightcolor31   white       "~N"    # new messages
+color index         brightcolor24   white       "~O"    # old messages
 color index         color59         white       "~Q"    # messages that have been replied to
 color index         black           color254    "~P"    # messages from me
 color index         black           color160    "~D"    # deleted messages
