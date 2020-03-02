@@ -26,15 +26,16 @@
 #
 # BASICS
 #
+
 # BASICS: TEXT COLOR
 set color_win_fg=59
 
 # BASICS: BACKGROUND COLOR
-set color_win_bg=default
+set color_win_bg=white
 
 # BASICS: COMMAND LINE
-set color_cmdline_bg=default
-set color_cmdline_fg=default
+set color_cmdline_bg=254
+set color_cmdline_fg=black
 set color_error=160
 set color_info=24
 set color_separator=254
@@ -59,11 +60,11 @@ set color_win_title_fg=15
 set color_win_cur=31
 
 # PLAYING: ACTIVE SELECTION
-set color_win_cur_sel_bg=254
+set color_win_cur_sel_bg=250
 set color_win_cur_sel_fg=24
 
 # PLAYING: INACTIVE SELECTION
-set color_win_inactive_cur_sel_bg=254
+set color_win_inactive_cur_sel_bg=250
 set color_win_inactive_cur_sel_fg=24
 
 #==============================================================================
@@ -71,11 +72,11 @@ set color_win_inactive_cur_sel_fg=24
 # COLLECTION
 #
 # COLLECTION: ACTIVE SELECTION
-set color_win_sel_bg=254
+set color_win_sel_bg=250
 set color_win_sel_fg=238
 
 # COLLECTION: INACTIVE SELECTION
-set color_win_inactive_sel_bg=default
+set color_win_inactive_sel_bg=white
 set color_win_inactive_sel_fg=31
 
 #==============================================================================
@@ -83,4 +84,11 @@ set color_win_inactive_sel_fg=31
 # DIRECTORIES
 #
 # DIRECTORIES: DIRECTORY LISTING
-set color_win_dir=59
+set color_win_dir=31
+
+# Album row in the track window
+#
+# Fix transparency/dark issues 
+set color_trackwin_album_bg=white
+set color_trackwin_album_fg=black
+
