@@ -8,6 +8,21 @@
 <small><a href="#screenshots">More screenshots</a></small>
 
 ---
+## Table of contents
+
+<!-- vim-markdown-toc GFM -->
+
+* [Colors](#colors)
+* [Screenshots](#screenshots)
+* [Install Themes](#install-themes)
+* [Mirrors](#mirrors)
+* [Warranty and Liability](#warranty-and-liability)
+* [Licence](#licence)
+* [Contribute](#contribute)
+
+<!-- vim-markdown-toc -->
+
+---
 
 ## Colors
 
@@ -78,6 +93,16 @@ You can find this repository on:
 
 ---
 
+## Warranty and Liability
+
+[Colorcli](https://gitlab.com/jonasjacek/colorcli) is a small, private project. The author makes absolutely no claims and representations to warranties regarding the accuracy or completeness of the information provided. However, you can use the information in this repository AT YOUR OWN RISK.
+
+## Licence
+
+<span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">Colorcli</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://gitlab.com/jonasjacek/colorcli" property="cc:attributionName" rel="cc:attributionURL">Jonas Jacek</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>. Permissions beyond the scope of this license may be available upon <a xmlns:cc="http://creativecommons.org/ns#" href="https://www.jonas.me/contact" rel="cc:morePermissions">request</a>.
+
+---
+
 ## Contribute
 
-**Found a mistake? Want to help? Send a pull request, or [contact me](https://www.jonas.me/contact)!**
+Found a mistake? [Open an issue](https://gitlab.com/jonasjacek/colorcli/-/issues) or [send a merge request](https://gitlab.com/jonasjacek/colorcli/-/merge_requests). Want to help in another way? [Contact me](https://www.jonas.me/contact).
