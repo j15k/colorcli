@@ -1,7 +1,7 @@
 ![colorcli colors](https://res.cloudinary.com/jonasjacek/image/upload/v1565972484/colorcli-colors_preview.png "colorcli colors preview")
 
 # colorcli
-**_Colorcli_ is a collection of harmonized, light command-line interface (CLI) color themes for tmux, cmus, newsboat, mcabber, Vim and Mutt.**
+**_Colorcli_ is a collection of harmonized, light command-line interface (CLI) color themes for tmux, cmus, newsboat, mcabber, Vim, Vifm and Mutt.**
 
 ![colorcli cmus theme](https://res.cloudinary.com/jonasjacek/image/upload/v1565902443/colorcli-with-cmus-in-tmux.png "colorcli with cmus")
 
@@ -15,6 +15,13 @@
 * [Colors](#colors)
 * [Screenshots](#screenshots)
 * [Install Themes](#install-themes)
+  * [tmux](#tmux)
+  * [cmus](#cmus)
+  * [Newsboat](#newsboat)
+  * [mcabber](#mcabber)
+  * [Vim Lightline](#vim-lightline)
+  * [Vifm](#vifm)
+  * [Mutt](#mutt)
 * [Mirrors](#mirrors)
 * [Warranty and Liability](#warranty-and-liability)
 * [Licence](#licence)
@@ -66,20 +73,26 @@
 
 Make sure you have enabled 256 color support.
 
-* **tmux**  
-  To install the theme for the terminal multiplexer [tmux](https://github.com/tmux/tmux/wiki), add the snippet in `colorcli.tmux.conf` to your `~/.tmux.conf`, which is the tmux configuration file.
-* **cmus**  
-  To install the theme for the music player [cmus](https://cmus.github.io/), copy `colorcli.theme` to `/usr/share/cmus/colorcli.theme`.  
-  You can enable the theme in cmus with `:colorscheme colorcli`.
-* **Newsboat**  
-  To install the theme for the feed reader [newsboat](https://newsboat.org/), add the code in `colorcli.config` to `~/.newsboat/config`.
-* **mcabber**  
-  To install the theme for the XMPP (Jabber) console client [mcabber](http://mcabber.com/), add the code in `colorcli.mcabberrc` to `~/.mcabber/mcabberrc`.
-* **Vim Lightline**  
-  To install the theme for the [Vim](https://www.vim.org/) statusline plugin [Lightline](https://github.com/itchyny/lightline.vim), copy the `colorcli.vim` color scheme to `~/.vim/bundle/lightline.vim/autoload/lightline/colorscheme/colorcli.vim`.  
-  You can enable the theme with `let g:lightline = { 'colorscheme': 'colorcli' }` in `~/.vimrc`.
-* **Mutt**  
-  To install the theme for text-based email client [Mutt](http://www.mutt.org/), add the code in `colorcli.muttrc` to `~/. muttrc`.
+### tmux
+To install the theme for the terminal multiplexer [tmux](https://github.com/tmux/tmux/wiki), add the snippet in `colorcli.tmux.conf` to your `~/.tmux.conf`, which is the tmux configuration file.
+
+### cmus
+To install the theme for the music player [cmus](https://cmus.github.io/), copy `colorcli.theme` to `/usr/share/cmus/colorcli.theme`. You can enable the theme in cmus with `:colorscheme colorcli`.
+
+### Newsboat
+To install the theme for the feed reader [newsboat](https://newsboat.org/), add the code in `colorcli.config` to `~/.newsboat/config`.
+
+### mcabber
+To install the theme for the XMPP (Jabber) console client [mcabber](http://mcabber.com/), add the code in `colorcli.mcabberrc` to `~/.mcabber/mcabberrc`.
+
+### Vim Lightline
+To install the theme for the [Vim](https://www.vim.org/) statusline plugin [Lightline](https://github.com/itchyny/lightline.vim), copy the `colorcli.vim` color scheme to `~/.vim/bundle/lightline.vim/autoload/lightline/colorscheme/colorcli.vim`. You can enable the theme with `let g:lightline = { 'colorscheme': 'colorcli' }` in `~/.vimrc`.
+
+### Vifm
+To install the theme for the file manager [Vifm](https://vifm.info/), place `colorcli.vifm` in `~/.vifm/colors/`. You can enable the theme with `:colorscheme colorcli`. Also the the [Vifm color schemes](https://wiki.vifm.info/index.php/Color_schemes) page.
+
+### Mutt
+To install the theme for text-based email client [Mutt](http://www.mutt.org/), add the code in `colorcli.muttrc` to `~/. muttrc`.
 
 ---
 
