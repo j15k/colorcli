@@ -13,7 +13,6 @@
 <!-- vim-markdown-toc GFM -->
 
 * [Colors](#colors)
-* [Screenshots](#screenshots)
 * [Install Themes](#install-themes)
   * [tmux](#tmux)
   * [cmus](#cmus)
@@ -22,7 +21,6 @@
   * [Vim Lightline](#vim-lightline)
   * [Vifm](#vifm)
   * [Mutt](#mutt)
-* [Mirrors](#mirrors)
 * [Warranty and Liability](#warranty-and-liability)
 * [Licence](#licence)
 * [Contribute](#contribute)
@@ -56,18 +54,6 @@
 
 ---
 
-## Screenshots
-
-![Colorful command line with colorcli](https://media.giphy.com/media/XxRjuvoDBtyxeXKZ0Z/giphy.gif "colorcli themes and color schemes in action")
-
-* **cmus theme**  
-  <a href="https://res.cloudinary.com/jonasjacek/image/upload/v1566154974/screenshot_cmus.png">Screenshot of cmus theme</a>
-* **newsboat theme**  
-  <a href="https://res.cloudinary.com/jonasjacek/image/upload/v1566154974/screenshot_newsboat.png">Screenshot of newsboat theme</a>
-* **Vim Lightline color scheme**  
-  <a href="https://res.cloudinary.com/jonasjacek/image/upload/v1566154974/screenshot_vim.png">Screenshot of Vim Lightline color scheme</a>
-
----
 
 ## Install Themes
 
@@ -96,15 +82,6 @@ To install the theme for text-based email client [Mutt](http://www.mutt.org/), a
 
 ---
 
-## Mirrors
-
-You can find this repository on:
-* GitLab  
-  [https://gitlab.com/jonasjacek/colorcli](https://gitlab.com/jonasjacek/colorcli)
-* GitHub  
-  [https://github.com/jonasjacek/colorcli](https://github.com/jonasjacek/colorcli)
-
----
 
 ## Warranty and Liability
 
@@ -112,10 +89,10 @@ You can find this repository on:
 
 ## Licence
 
-<span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">Colorcli</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://gitlab.com/jonasjacek/colorcli" property="cc:attributionName" rel="cc:attributionURL">Jonas Jacek</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>. Permissions beyond the scope of this license may be available upon <a xmlns:cc="http://creativecommons.org/ns#" href="https://www.jonas.me/contact" rel="cc:morePermissions">request</a>.
+<span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">Colorcli</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://gitlab.com/jonasjacek/colorcli" property="cc:attributionName" rel="cc:attributionURL">Jonas Jacek</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>. Permissions beyond the scope of this license may be available upon <a xmlns:cc="http://creativecommons.org/ns#" href="https://www.j15k.com/contact" rel="cc:morePermissions">request</a>.
 
 ---
 
 ## Contribute
 
-Found a mistake? [Open an issue](https://gitlab.com/jonasjacek/colorcli/-/issues) or [send a merge request](https://gitlab.com/jonasjacek/colorcli/-/merge_requests). Want to help in another way? [Contact me](https://www.jonas.me/contact).
+Found a mistake? Open an issue or send a merge request. Want to help in another way? [Contact me](https://www.jonas.me/contact).
