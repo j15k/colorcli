@@ -1,5 +1,6 @@
 # Custom Color Settings - Colorcli
-# https://github.com/jonasjacek/colorcli
+# https://github.com/j15k/colorcli
+# https://www.j15k.com/
 # * NOTE: Your terminal MUST have 256 color support
 set color_background   = default
 set color_general      = 24
