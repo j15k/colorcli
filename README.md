@@ -1,5 +1,3 @@
-![colorcli colors](https://res.cloudinary.com/jonasjacek/image/upload/v1565972484/colorcli-colors_preview.png "colorcli colors preview")
-
 # colorcli
 **_Colorcli_ is a collection of harmonized, light command-line interface (CLI) color themes for tmux, cmus, newsboat, mcabber, Vim, Vifm and Mutt.**
 
@@ -95,4 +93,4 @@ To install the theme for text-based email client [Mutt](http://www.mutt.org/), a
 
 ## Contribute
 
-Found a mistake? Open an issue or send a merge request. Want to help in another way? [Contact me](https://www.jonas.me/contact).
+Found a mistake? Open an issue or send a merge request. Want to help in another way? [Contact me](https://www.j15k.com/contact).
