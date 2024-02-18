@@ -1,10 +1,6 @@
 # colorcli
 **_Colorcli_ is a collection of harmonized, light command-line interface (CLI) color themes for tmux, cmus, newsboat, mcabber, Vim, Vifm and Mutt.**
 
-![colorcli cmus theme](https://res.cloudinary.com/jonasjacek/image/upload/v1565902443/colorcli-with-cmus-in-tmux.png "colorcli with cmus")
-
-<small><a href="#screenshots">More screenshots</a></small>
-
 ---
 ## Table of contents
 
