@@ -1,6 +1,6 @@
 " =============================================================================
 " Filename: autoload/lightline/colorscheme/colorcli.vim
-" Author: Jonas Jacek - https://www.jonas.me/
+" Author: Jonas Jacek - https://www.j15k.com/
 " License: MIT License
 " Last Change: 2019/10/16
 " =============================================================================
